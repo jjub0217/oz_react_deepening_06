@@ -55,11 +55,12 @@ header nav a:hover {
 
 /* Sidebar */
 .sidebar {
-  width: 250px;
-  background-color: #181818;
+  /* width: 250px; */
+  /* background-color: #181818; */
+  background-color: red;
   padding: 20px;
   border-right: 1px solid #333;
-  position: fixed;
+  /* position: fixed; */
   top: 0;
   left: 0;
   bottom: 0;
@@ -82,9 +83,11 @@ header nav a:hover {
 
 /* Main content area */
 .main-content {
-  margin-left: 270px;
+  /* margin-left: 270px; */
+
   padding: 20px;
-  background-color: #1c1c1c;
+  /* background-color: #1c1c1c; */
+  background-color: blue;
   border-radius: 8px;
   min-height: 100vh;
 }
